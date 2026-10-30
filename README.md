@@ -37,12 +37,17 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
     
 ## Observation Table
 <img width="636" height="295" alt="image" src="https://github.com/user-attachments/assets/d16394c9-1df2-4ad8-b85c-92dfaa51aeee" />
+## DIAGRAM
+<img width="1171" height="467" alt="WhatsApp Image 2026-10-30 at 5 48 09 PM" src="https://github.com/user-attachments/assets/81e8de6c-3eb9-4b05-a9f5-1f74d9b86a90" />
 
 ## Output graph
+<img width="932" height="572" alt="WhatsApp Image 2026-10-30 at 5 48 23 PM" src="https://github.com/user-attachments/assets/8222d9c8-b868-472e-8dd6-bd48ef808ef9" />
 
 
 ## Simulated Output waveform
+<img width="1265" height="797" alt="WhatsApp Image 2026-10-30 at 5 48 36 PM" src="https://github.com/user-attachments/assets/ef1f214d-43a5-4c5a-b5fd-c890a2ff4895" />
 
 
 
 ## RESULT.
+Torque Speed Characteristics of DC Shunt Motor is Simulated and analyzed is Successfully
