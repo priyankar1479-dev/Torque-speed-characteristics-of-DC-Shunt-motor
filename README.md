@@ -36,17 +36,15 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 13.	Analyze and record your inference.
     
 ## Observation Table
-<img width="636" height="295" alt="image" src="https://github.com/user-attachments/assets/d16394c9-1df2-4ad8-b85c-92dfaa51aeee" />
-## DIAGRAM
-<img width="1171" height="467" alt="WhatsApp Image 2026-10-30 at 5 48 09 PM" src="https://github.com/user-attachments/assets/81e8de6c-3eb9-4b05-a9f5-1f74d9b86a90" />
+<img width="416" height="152" alt="image" src="https://github.com/user-attachments/assets/35549eb4-afe8-4632-9cb5-3ba08a98ecbb" />
 
 ## Output graph
-<img width="932" height="572" alt="WhatsApp Image 2026-10-30 at 5 48 23 PM" src="https://github.com/user-attachments/assets/8222d9c8-b868-472e-8dd6-bd48ef808ef9" />
-
+<img width="756" height="445" alt="image" src="https://github.com/user-attachments/assets/34e16861-657f-4181-bb4d-8a9bfa572e25" />
 
 ## Simulated Output waveform
-<img width="1265" height="797" alt="WhatsApp Image 2026-10-30 at 5 48 36 PM" src="https://github.com/user-attachments/assets/ef1f214d-43a5-4c5a-b5fd-c890a2ff4895" />
 
+<img width="702" height="628" alt="image" src="https://github.com/user-attachments/assets/50629061-d22e-4729-8da2-3f45a171d374" />
+<img width="702" height="628" alt="image" src="https://github.com/user-attachments/assets/dc73be8e-2c8b-4572-a389-1770c4a44a27" />
 
 
 ## RESULT.
